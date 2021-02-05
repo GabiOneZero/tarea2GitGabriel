@@ -11,4 +11,8 @@ package com.mycompany.tarea2gitgabriel;
  */
 public class Jugador {
     
+    private String nombre;
+    private int votos;
+    private int id;
+    
 }
